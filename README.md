@@ -4,13 +4,6 @@
 
 Me chamo Elias Dutra, tenho 28 anos e sou niterói RJ. Concluí o ensino médio no na FAETEC-Barreto NIterói, com o curso técnico em eletrotécnica. Atualmente, estou cursando Engenharia Elétrica na UFF. Possuo experiência em projetos de subestações na área de SPCS (Sistemas de Proteção Supersvisão e Controle em Subestações de Alta Tensão). Este é o meu espaço onde tento desenvolver alguns programas relacionados a programação.
 
-<p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
     
 ### Linguagens e Tecnologias
 
