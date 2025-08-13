@@ -2,7 +2,7 @@
 
 **`Estudante de Eng. ELétrica UFF`**
 
-Me chamo Elias Dutra, tenho 28 anos e sou niterói RJ. Concluí o ensino médio no na FAETEC-Barreto NIterói, com o curso técnico em eletrotécnica. Atualmente, estou cursando Engenharia Elétrica na UFF. Possuo experiência em projetos de subestações na área de SPCS (Sistemas de Proteção Supersvisão e Controle em Subestações de Alta Tensão). Este é o meu espaço onde tento desenvolver alguns programas relacionados a programação.
+Me chamo Elias Dutra, tenho 28 anos e sou niterói RJ. Concluí o ensino médio no na FAETEC-Barreto NIterói, com o curso técnico em eletrotécnica. Atualmente, estou cursando Engenharia Elétrica na UFF. Possuo experiência em projetos de subestações na área de SPCS (Sistemas de Proteção Supersvisão e Controle em Subestações de Alta Tensão). Com esperiência na participação de projetos básicos e executivos de transmissão de energia elétrica em diagramas unifiliares, medição e proteção, interligação, funcionais, lógicos e construtivos. ALem disso, apoio no dimensionamento e estimativa de cabos CA, CC, controle e proteção. Este é o meu espaço onde tento desenvolver alguns programas relacionados a programação.
 
     
 ### Linguagens e Tecnologias
