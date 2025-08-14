@@ -29,7 +29,7 @@ Me chamo Elias Dutra, tenho 28 anos e sou niterói RJ. Concluí o ensino médio 
     title="JavaScript"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" />
 />
 <img 
     align="left" 
